@@ -20,8 +20,8 @@ Please take a look at the following issue as an example on how to request a new 
 
 * The title is written as [Event Request] Object Type; Object Number; Object Name - New Event Name
 * The body is split into two parts
-** First: A snippet on how the new Event is supposed to look like.
-** Second: A snippet to show where the new function is placed. If you need further Code you can also mark them as such with the + symbol at the beginning of the row. That can include new variables or general new lines of code. Anything that is irrelevant to your request can be removed with the use of [...]. Just be sure that your overall goal is still readable.
+  * First: A snippet on how the new Event is supposed to look like.
+  * Second: A snippet to show where the new function is placed. If you need further Code you can also mark them as such with the + symbol at the beginning of the row. That can include new variables or general new lines of code. Anything that is irrelevant to your request can be removed with the use of [...]. Just be sure that your overall goal is still readable.
 
 # Disclaimer
 
