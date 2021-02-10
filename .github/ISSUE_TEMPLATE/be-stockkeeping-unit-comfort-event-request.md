@@ -2,7 +2,7 @@
 name: BE-Stockkeeping Unit Comfort Event Request
 about: Template for Event Requests for BE-Stockkeeping Unit Confort
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-stockkeeping unit comfort, event request
+labels: be-production, event request
 assignees: ''
 
 ---

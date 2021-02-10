@@ -2,7 +2,7 @@
 name: BE-EDI Event Request
 about: Template for Event Requests for BE-EDI
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-production, event request
+labels: be-pqm, event request
 assignees: ''
 
 ---
