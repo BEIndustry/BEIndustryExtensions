@@ -1,8 +1,8 @@
 ---
-name: BE-Manufacturing Event Request
-about: Template for Event Requests for BE-Manfacturing
+name: BE-Production Event Request
+about: Template for Event Requests for BE-Production
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-manufacturing, event request
+labels: be-production, event request
 assignees: ''
 
 ---
