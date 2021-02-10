@@ -1,8 +1,8 @@
 ---
-name: BE-Payment Plan Event Request
-about: Template for Event Requests for BE-Payment Plan
+name: BE-DEL Notation Event Request
+about: Template for Event Requests for BE-DEL Notation
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-payment plan, event request
+labels: event request, be-del notation
 assignees: ''
 
 ---
