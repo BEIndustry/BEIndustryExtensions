@@ -1,8 +1,8 @@
 ---
-name: BE-EDI Event Request
-about: Template for Event Requests for BE-EDI
+name: BE-Stockkeeping Unit Comfort Event Request
+about: Template for Event Requests for BE-Stockkeeping Unit Confort
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-production, event request
+labels: event request, be-stockkeeping unit comfort
 assignees: ''
 
 ---

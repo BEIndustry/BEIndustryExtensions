@@ -2,7 +2,7 @@
 name: BE-DEL Notation Event Request
 about: Template for Event Requests for BE-DEL Notation
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-production, event request
+labels: be-payment plan, event request
 assignees: ''
 
 ---
