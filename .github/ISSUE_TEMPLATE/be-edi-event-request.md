@@ -1,8 +1,8 @@
 ---
-name: BE-DEL Notation Event Request
-about: Template for Event Requests for BE-DEL Notation
+name: BE-EDI Event Request
+about: Template for Event Requests for BE-EDI
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-production, event request
+labels: event request, be-edi
 assignees: ''
 
 ---
