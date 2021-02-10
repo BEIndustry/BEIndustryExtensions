@@ -1,8 +1,8 @@
 ---
-name: BE-Stockkeeping Unit Comfort Event Request
-about: Template for Event Requests for BE-Stockkeeping Unit Confort
+name: BE-PQM Event Request
+about: Template for Event Requests for BE-PQM
 title: ObjectType ObjectNo ObjectName - EventName
-labels: be-stockkeeping unit comfort, event request
+labels: event request, be-pqm
 assignees: ''
 
 ---
